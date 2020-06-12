@@ -1,0 +1,54 @@
+
+
+
+
+
+
+.label-row{
+	float: left;
+	width: 49%;
+	text-align: right;
+
+
+}
+.input-row{
+	float: right;
+	width: 50%;
+	text-align: left;
+
+}
+.line-row{
+	padding-bottom: 40px;
+}
+.line-rows{
+	padding-bottom: 80px;
+
+}
+
+
+.button-rows{
+	padding-top: 80px;
+}
+
+
+
+select{
+	width: 155px;
+	height: 23px;
+}
+
+
+input[type="submit"]{
+	height: 35px;
+}
+
+h3{
+	text-align: center;
+}
+
+form{
+	background-color: lightblue;
+	border: 5px solid red;
+	padding: 20px;
+}	
+
